@@ -1,7 +1,4 @@
-#include <iostream>
-#include <windows.h>
-#include <string.h>
-#include <fstream>
+#include <stdio.h>
 #include <conio2.h>
 #include <time.h>
 
